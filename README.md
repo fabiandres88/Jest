@@ -7,3 +7,4 @@ The repository contains some examples about unit testing with jest library:
 - jest
 - jest-babel
 - jest-polyfill
+- @babel/preset-env
