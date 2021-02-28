@@ -32,3 +32,10 @@ Using toEqual matcher.
 ```
 Testing callbacks.
 ```
+- arrays.test.ts
+
+#### Description:
+
+```
+Testing arrays using toContain.
+```
