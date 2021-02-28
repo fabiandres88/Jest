@@ -25,3 +25,10 @@ Testing some math functions like addition, substraction, multiplication, divisio
 ```
 Using toEqual matcher.
 ```
+- callback.test.js
+
+### Description
+
+```
+Testing callbacks.
+```
