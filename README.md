@@ -27,7 +27,7 @@ Using toEqual matcher.
 ```
 - callback.test.js
 
-### Description
+#### Description:
 
 ```
 Testing callbacks.
