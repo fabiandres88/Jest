@@ -39,3 +39,10 @@ Testing callbacks.
 ```
 Testing arrays using toContain.
 ```
+- numbers.test.ts
+
+#### Description:
+
+```
+Testing number using toBeGreaterThan, toBeGreaterThanOrEqual. toBeLessThan, toBeLessThanOrEqual and toBeCloseTo.
+```
