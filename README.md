@@ -75,3 +75,10 @@ Testing strings using toMatch and toHaveLength.
 ```
 Testing a promise using axios and toHaveLength, resolves and rejects.
 ```
+- async.test.ts
+
+#### Description:
+
+```
+Testing async/await methods axios.
+```
