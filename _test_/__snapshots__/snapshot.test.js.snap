@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`is time to the snapshots Snaphots 1`] = `
+Object {
+  "gender": "Male",
+  "id": 1,
+  "name": "Rick sanchez",
+  "species": "Human",
+  "status": "Alive",
+}
+`;
+
+exports[`is time to the snapshots The snapshot always will fail 1`] = `
+Object {
+  "createdAt": 2021-03-02T16:48:30.633Z,
+  "id": 4,
+}
+`;
+
+exports[`is time to the snapshots The snapshot always will fail 2`] = `
+Object {
+  "createdAt": "2021-03-02T16:39:11.339Z",
+  "id": 1,
+  "name": "Carolina Jaimes",
+  "updatedAt": Any<Date>,
+}
+`;
