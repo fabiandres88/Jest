@@ -8,6 +8,7 @@ The repository contains some examples about unit testing with jest library:
 - jest-babel
 - jest-polyfill
 - @babel/preset-env
+- axios
 
 ## Examples:
 
@@ -66,4 +67,11 @@ Using afterEach, afterAll. beforeEach and beforeAll.
 
 ```
 Testing strings using toMatch and toHaveLength.
+```
+- promise.test.ts
+
+#### Description:
+
+```
+Testing a promise using axios and toHaveLength.
 ```
