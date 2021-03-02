@@ -53,3 +53,10 @@ Testing numbers using toBeGreaterThan, toBeGreaterThanOrEqual. toBeLessThan, toB
 ```
 Testing booleans using toBeNull, toBeTruthy. toBeFalsy, toBeUndefined and toBeTruthy.
 ```
+- setup.test.ts
+
+#### Description:
+
+```
+Using afterEach, afterAll. beforeEach and beforeAll.
+```
