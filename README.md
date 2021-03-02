@@ -60,3 +60,10 @@ Testing booleans using toBeNull, toBeTruthy. toBeFalsy, toBeUndefined and toBeTr
 ```
 Using afterEach, afterAll. beforeEach and beforeAll.
 ```
+- strings.test.ts
+
+#### Description:
+
+```
+Testing strings using toMatch and toHaveLength.
+```
