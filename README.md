@@ -73,5 +73,5 @@ Testing strings using toMatch and toHaveLength.
 #### Description:
 
 ```
-Testing a promise using axios and toHaveLength.
+Testing a promise using axios and toHaveLength, resolves and rejects.
 ```
