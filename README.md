@@ -44,5 +44,12 @@ Testing arrays using toContain.
 #### Description:
 
 ```
-Testing number using toBeGreaterThan, toBeGreaterThanOrEqual. toBeLessThan, toBeLessThanOrEqual and toBeCloseTo.
+Testing numbers using toBeGreaterThan, toBeGreaterThanOrEqual. toBeLessThan, toBeLessThanOrEqual and toBeCloseTo.
+```
+- true.test.ts
+
+#### Description:
+
+```
+Testing booleans using toBeNull, toBeTruthy. toBeFalsy, toBeUndefined and toBeTruthy.
 ```
