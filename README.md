@@ -89,3 +89,10 @@ Testing async/await methods axios.
 ```
 Testing using snapshots and applying execptions.
 ```
+- Jest-ReactJS-main
+
+#### Description:
+
+```
+Testing a React Js component.
+```
