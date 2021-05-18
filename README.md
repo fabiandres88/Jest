@@ -82,3 +82,10 @@ Testing a promise using axios and toHaveLength, resolves and rejects.
 ```
 Testing async/await methods axios.
 ```
+- snapshot.test.ts
+
+#### Description:
+
+```
+Testing using snapshots and applying execptions.
+```
